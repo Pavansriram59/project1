@@ -17,5 +17,4 @@ def power(base, exponent):
     return result
 # Example usage
 if __name__ == "__main__":
-    print(power(2, 3))  # Output: 8
-    print(power(5, -2)) # Output: 0.04
+    print(power(2, 3))      # Output:
